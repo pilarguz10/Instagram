@@ -1,0 +1,49 @@
+body {
+    background-color:#DAD6D6;
+    margin:0;
+}
+
+.primerapublicacion{
+    background-color: white;
+    margin-top: 10%;
+}
+
+header{
+    background-color: white;
+    padding: 8px;
+
+}
+
+header h1{
+    margin: 0;
+    align-content: center;
+}
+
+.contenedorprincipal{
+    margin: auto;
+    width: 500px;
+}
+
+.primerapublicacion img{
+width: 100%;
+}
+
+.titulo h2{
+    margin-left: 8px;
+}
+
+.primerapublicacion h2, .primerapublicacion p{
+    padding: 6px;
+}
+
+.cabecerafoto .titulo{
+display: inline-block;
+width: 85%;
+}
+
+.cabecerafoto .fecha{
+    display: inline-block;
+    color:gray
+}
+
+
